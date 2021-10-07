@@ -23,6 +23,7 @@ namespace GutHub_Test
         public MainWindow()
         {
             InitializeComponent();
+            int a = 1 + 2;
         }
     }
 }
